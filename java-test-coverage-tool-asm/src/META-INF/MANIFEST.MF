@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: var.modified.com.intellij.rt.coverage.main.CoveragePremain
+
