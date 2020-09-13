@@ -26,7 +26,7 @@ public class Instrumentator {
 
     public void performPremain(String patternFile, Instrumentation instrumentation) throws Exception {
         List<Pattern> includePatterns = new ArrayList<>();
-        System.out.println("---- Variable History Recorder Agent loaded - version 1.73--- ");
+        System.out.println("---- Variable History Recorder Agent loaded - version 1.78--- ");
 
         String[] args;
         try {
